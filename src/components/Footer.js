@@ -46,7 +46,7 @@ const Footer = () => {
               <a href="tel:+91 9025952561" aria-label="Phone">
                 <Phone size={20} />
               </a>
-              <a href="#" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
+              <a href="https://www.linkedin.com/in/monish-r-640479301/" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
                 <Instagram size={20} />
               </a>
             </div>
