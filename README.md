@@ -3,7 +3,7 @@
 A modern, responsive homepage for a design agency built with React.
 
 ## 🚀 Live Demo
-[View Live Demo](your-vercel-url-here)
+[View Live Demo](https://design-agency-homepage-5jewea3h9-monishr288s-projects.vercel.app/)
 
 ## 📋 Features
 
