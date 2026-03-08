@@ -16,11 +16,32 @@ A modern, responsive homepage for a design agency built with React.
 - **Form Validation** - Real-time validation with error messages
 
 ## 🛠️ Tech Stack
+- **React 18** - Frontend library for building the user interface
+- **Create React App** - Bootstrapping tool to set up the project
 
-- React 18
-- CSS3 (Flexbox & Grid)
-- Lucide React Icons
-- React Hooks (useState)
+### Styling & UI:
+- **CSS3** - Custom styling with:
+- Flexbox & Grid for layouts
+- CSS Variables for theme management
+- CSS Animations & Keyframes
+- **Lucide React** - Modern icon library (for all icons throughout the site)
+
+### State Management & Utilities:
+- **React Hooks** - useState for local state management
+- **Context API** - For dark/light mode theme management
+
+### Form Handling:
+- **EmailJS** - Sends form submissions directly to email without backend
+- **Custom Form Validation** - Client-side validation with error messages
+
+### Deployment & Version Control:
+- **Git** - Version control
+- **GitHub** - Repository hosting
+- **Vercel** - Deployment and hosting platform
+
+### Development Tools:
+- **ESLint** - Code linting
+- **npm** - Package management
 
 ## 📦 Installation
 
